@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-12T04:54:51.624Z'
+datePublished: '2016-05-12T04:56:18.411Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
 isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
@@ -24,7 +24,7 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-dateModified: '2016-05-12T04:54:50.908Z'
+dateModified: '2016-05-12T04:56:17.264Z'
 title: Illustration
 app_links: []
 publisher:
