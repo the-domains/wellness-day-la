@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-12T04:56:18.458Z'
+datePublished: '2016-05-14T04:05:02.368Z'
 sourcePath: _posts/2016-04-16-light-painting-with-pixelstick.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/78163959'
@@ -10,8 +10,8 @@ author:
   - name: Bitbanger
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
-dateModified: '2016-05-12T04:56:18.086Z'
-title: Light painting with pixelstick
+dateModified: '2016-05-14T03:49:19.535Z'
+title: welcome
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
     type: ios
@@ -44,11 +44,11 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: "More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn."
+description: 'Life Coaching is a confidential and innovative dialogue to help clients move out of outmoded ways of thinking and feeling into new and healthy perspectives that support overall wellbeing, while identifying and achieving personal goals.  Call or email us for a free consultation today! 323.302.4542'
 inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F78163959&amp;url=https%3A%2F%2Fvimeo.com%2F78163959&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![Life Coaching is a confidential and innovative dialogue to help clients move out of outmoded ways of thinking and feeling into new and healthy perspectives that support overall wellbeing, while identifying and achieving personal goals.  Call or email us for a free consultation today! 323.302.4542](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e77014d5-e28e-4b5a-9139-a2af63581994.jpg)
